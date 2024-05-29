@@ -1,4 +1,4 @@
-Initial full stack Development:
-     - Using html,javascript.
-     - Normal Web page.
+LEARNING ABSTRACT FOR JAVASCRIPT
+* CREATE A NORMAL WEB PAGE TO GET A INPUT FROM USER USING WINDOW PROMPT COMMENT.
+* USING HTML,CSS CREATE TWO BIOGRAPHY.
      
